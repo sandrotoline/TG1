@@ -2,11 +2,12 @@ TG1 - 5º semestre de BD
 Professor da Disciplina: Giuliano Bertoti
 
 TG
-Aluno: Sandro Toline - ra Orientador: Juliana Pasquini
+# Aluno: Sandro Toline - ra 
+# Orientador: Juliana Pasquini
 
-Título do TG: SISTEMA DE MONITORAMENTO DE CARGA.
+# Título do TG: SISTEMA DE MONITORAMENTO DE CARGA.
 
-#1ª Quinzena de maio
+# 1ª Quinzena de maio
 
 1-INTRODUÇÃO
 ----
