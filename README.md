@@ -6,8 +6,9 @@ Aluno: Sandro Toline - ra Orientador: Juliana Pasquini
 
 Título do TG: SISTEMA DE MONITORAMENTO DE CARGA.
 
-#1ª Quinzena de maio
-##1-INTRODUÇÃO
+1ª Quinzena de maio
+
+1-INTRODUÇÃO
 ----
 Devido à alta demanda de produtos, em alguns momentos por furto, roubo ou a por
 acidente, as cargas de caminhões são perdidas, afim de evitar essas perdas, foi pensando em
@@ -37,6 +38,7 @@ aparece a região Nordeste com 6,43%; Sul, com 5,69%; Centro-oeste, ,34%; e por 
 região Norte, com 0,75%.
 
 1.1- Objetivo
+---
 O objetivo deste trabalho é o desenvolvimento do Sistema para o monitoramento de
 carga, afim de evitar possiveis roubos de carga.
  Monitoramento 24h do caminhão.
