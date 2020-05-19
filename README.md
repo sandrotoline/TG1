@@ -7,7 +7,7 @@ Aluno: Sandro Toline - ra Orientador: Juliana Pasquini
 Título do TG: SISTEMA DE MONITORAMENTO DE CARGA.
 
 1ª Quinzena de maio
-
+---
 1-INTRODUÇÃO
 ----
 Devido à alta demanda de produtos, em alguns momentos por furto, roubo ou a por
@@ -41,18 +41,22 @@ região Norte, com 0,75%.
 ---
 O objetivo deste trabalho é o desenvolvimento do Sistema para o monitoramento de
 carga, afim de evitar possiveis roubos de carga.
- Monitoramento 24h do caminhão.
- Acompanhamento via rota.
- Gerar relatório ao final de cada viagem.
+- Monitoramento 24h do caminhão.
+- Acompanhamento via rota.
+- Gerar relatório ao final de cada viagem.
 
 2ª Quinzena de maio
+---
 (coloque aqui tudo que você fez referente ao capítulo 2 no formato exato de BD)
 
 1ª Quinzena de junho
+---
 (coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD)
 
 2ª Quinzena de junho
+---
 (coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD) + crie um pasta chamada "Desenvolvimento" e coloque o início do código
 
 1ª Quinzena de julho
+---
 (coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD) + atualize a continuação do código
