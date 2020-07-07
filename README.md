@@ -56,17 +56,17 @@ Tecnologia usadas serão:
 
 - Vue.js - Front-end.
 
-- SaSS - desenvolvido toda a folha de estilo
+- SaSS - Personalização.
 
 - MySQL - Banco de dados.
 
-- Spring Boot - configurações e publicações da aplicação.
+- Spring Boot - Configurações e publicações da aplicação.
 ---
 ## 3. DESENVOLVIMENTO
 
 #### 3.1 - Modelagem do sistema 
 
-O modelo utilizado nesse projeto sera o padrão MVC, onde o usuário faz uma requisição, que passa pelo controller é encaminhada ao model, e após isso é devolvida ao view para o retorno ao usuário que fez a requisição inicial.
+Usaremos o padrão MVC, onde o usuário faz uma requisição, que passa pelo controller é encaminhada ao model, e após isso é devolvida ao view para o retorno ao usuário que fez a requisição inicial.
 
 #### 3.2 - Arquitetura de banco de dados 
 
