@@ -36,7 +36,7 @@ A região Sudeste é a mais afetada, arcando com 84,79% das ocorrências, em seg
 aparece a região Nordeste com 6,43%; Sul, com 5,69%; Centro-oeste, ,34%; e por último a
 região Norte, com 0,75%.
 
-1.1- Objetivo
+#### 1.1- Objetivo
 ---
 O objetivo deste trabalho é o desenvolvimento do Sistema para o monitoramento de
 carga, afim de evitar possiveis roubos de carga.
@@ -49,7 +49,7 @@ carga, afim de evitar possiveis roubos de carga.
 
 O objetivo desse capitulo é apresentar as tecnologias e processos que serão utilizados para a construção do sistema.
 
-2.1 TECNOLOGIAS
+#### 2.1 TECNOLOGIAS
 Tecnologia usadas serão:
 
 - Java - Back-end.
@@ -64,15 +64,15 @@ Tecnologia usadas serão:
 ---
 ## 3. DESENVOLVIMENTO
 
-3.1 - Modelagem do sistema 
+#### 3.1 - Modelagem do sistema 
 
 O modelo utilizado nesse projeto sera o padrão MVC, onde o usuário faz uma requisição, que passa pelo controller é encaminhada ao model, e após isso é devolvida ao view para o retorno ao usuário que fez a requisição inicial.
 
-3.2 - Arquitetura de banco de dados 
+#### 3.2 - Arquitetura de banco de dados 
 
 O banco de dados utilizado será o MySQL, que é um SGBD, um dos mais utilizados no mercado.
 
-3.3 - Projeto da aplicação
+#### 3.3 - Projeto da aplicação
 
 A ideia do sistema é fazer um monitoramento de carga, onde será armazenadas as rotas e seus tempos, afim de evitar que a carga seja furtada.
 Caso a carga fique muito tempo parada, será emitido um alerta amarelo, onde será tentado contactar o motorista.
