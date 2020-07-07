@@ -70,7 +70,7 @@ O modelo utilizado nesse projeto sera o padrão MVC, onde o usuário faz uma req
 
 #### 3.2 - Arquitetura de banco de dados 
 
-O banco de dados utilizado será o MySQL, que é um SGBD, um dos mais utilizados no mercado.
+Utilizando banco de dados MySQL, um dos SGBD dos mais utilizados no mercado.
 
 #### 3.3 - Projeto da aplicação
 
