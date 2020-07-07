@@ -45,7 +45,7 @@ carga, afim de evitar possiveis roubos de carga.
 - Gerar relatório ao final de cada viagem.
 
 ----
-# 2. FUNDAMENTAÇÃO TÉCNICA
+## 2. FUNDAMENTAÇÃO TÉCNICA
 
 O objetivo desse capitulo é apresentar as tecnologias e processos que serão utilizados para a construção do sistema.
 
@@ -62,7 +62,7 @@ Tecnologia usadas serão:
 
 - Spring Boot - configurações e publicações da aplicação.
 
-# 3. DESENVOLVIMENTO
+## 3. DESENVOLVIMENTO
 --
 3.1 - Modelagem do sistema 
 
