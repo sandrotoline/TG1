@@ -63,7 +63,7 @@ Tecnologia usadas serão:
 - Spring Boot - configurações e publicações da aplicação.
 ---
 ## 3. DESENVOLVIMENTO
-----
+
 3.1 - Modelagem do sistema 
 
 O modelo utilizado nesse projeto sera o padrão MVC, onde o usuário faz uma requisição, que passa pelo controller é encaminhada ao model, e após isso é devolvida ao view para o retorno ao usuário que fez a requisição inicial.
