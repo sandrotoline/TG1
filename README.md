@@ -56,6 +56,8 @@ Tecnologia usadas serão:
 
 - Vue.js - Front-end.
 
+- Node.js - Instalação de biblioteca.
+
 - SaSS - Personalização.
 
 - MySQL - Banco de dados.
@@ -66,7 +68,7 @@ Tecnologia usadas serão:
 
 #### 3.1 - Modelagem do sistema 
 
-Usaremos o padrão MVC, onde o usuário faz uma requisição, que passa pelo controller é encaminhada ao model, e após isso é devolvida ao view para o retorno ao usuário que fez a requisição inicial.
+Usaremos o padrão MVC  (Modelo, Visão, controlador)
 
 #### 3.2 - Arquitetura de banco de dados 
 
