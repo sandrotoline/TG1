@@ -54,7 +54,7 @@ Tecnologia usadas serão:
 
 - Java - Back-end.
 
-- Vue.js - Front-end.
+- React - Front-end.
 
 - Node.js - Instalação de biblioteca.
 
