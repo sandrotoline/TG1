@@ -33,7 +33,7 @@ levantamento mostra que as ocorrências vêm aumento desde de 2017, quando se ch
 25.950.
 
 A região Sudeste é a mais afetada, arcando com 84,79% das ocorrências, em seguida
-aparece a região Nordeste com 6,43%; Sul, com 5,69%; Centro-oeste, ,34%; e por último a
+aparece a região Nordeste com 6,43%; Sul, com 5,69%; Centro-oeste, 34%; e por último a
 região Norte, com 0,75%.
 
 #### 1.1- Objetivo
